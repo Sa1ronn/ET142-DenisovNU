@@ -30,3 +30,8 @@
 * **Задача:** Интеллектуальный поиск ответов по корпоративной базе знаний (SberQuAD).
 * **Стек:** NumPy, Pandas, Seaborn NLTK, Re, PyMorphy3, Scikit-learn, Collections, WordCloud.
 * **Результат:** Реализован полный NLP-конвейер очистки, лемматизации и фильтрации стоп-слов. Построена разреженная матрица признаков TF-IDF. Разработан прототип поискового движка на основе косинусного векторного сходства.
+### Приложение: Наборы Данных
+*	**Набор данных** Financial Transactions Dataset for Fraud Detection. URL: https://www.kaggle.com/datasets/aryan208/financial-transactions-dataset-for-fraud-detection
+*	**Набор данных** Turbofan Engine Degradation Simulation. URL: https://www.kaggle.com/datasets/bishals098/nasa-turbofan-engine-degradation-simulation
+*	**Набор данных** Potholes Detection YOLOv8. URL: https://www.kaggle.com/datasets/anggadwisunarto/potholes-detection-yolov8
+*	**Набор данных** SberQuAD. URL: https://huggingface.co/datasets/kuznetsoffandrey/sberquad
